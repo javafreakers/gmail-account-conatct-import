@@ -21,8 +21,8 @@
 <body>
 
 <%!
-String clientscrete = "PradWrLooyfucawY8ZNx8kXl";
-String clientId= "258057296572-35mncc72adulurbpaha3mj844sl47qpm.apps.googleusercontent.com";
+String clientscrete = "your_app_client_secret";
+String clientId= "your_app_client_id";
 List<Map<String,Object>> gmailContactsList = new ArrayList<Map<String,Object>>();
 %>
 	<%
